@@ -1,0 +1,24 @@
+.title{
+    font-size: 26px;
+    color: black;
+    font-family: SimHei;
+}
+.node{
+    position: relative;
+    padding-top: 22px;
+
+}
+.node.n1{
+    background-color: antiquewhite;
+    position: absolute;
+    padding-top: 0px;
+
+}
+.text1{
+    font-size: 22px;
+    font-family: SimHei;
+}
+.t1{
+    position: relative;
+    padding-top: 22px;
+}
